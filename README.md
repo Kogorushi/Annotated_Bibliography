@@ -4,7 +4,7 @@
 
 ## Surveys
 
-* [A Survey on Transfer Learning](https://github.com/Kogorushi/Annotated_Bibliography/edit/master/sources/tkde_transfer_learning.pdf)
+1. [A Survey on Transfer Learning](https://github.com/Kogorushi/Annotated_Bibliography/edit/master/sources/tkde_transfer_learning.pdf)
 
   original: http://home.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf
 
