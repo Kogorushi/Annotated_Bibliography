@@ -1,5 +1,7 @@
 # Annotated_Bibliography
 
+# Table of Contents
+
 # Transfer Learning
 
 ## Surveys
@@ -13,3 +15,11 @@
 2. https://link.springer.com/content/pdf/10.1186/s40537-016-0043-6.pdf
 
 3. http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf
+
+# Modeling the dissemination of Fake News
+
+1.  [Incentivizing the Dissemination of Truth Versus Fake News in Social Networks](https://github.com/Kogorushi/Annotated_Bibliography/edit/master/sources/1804.02509.pdf)
+  - Original: https://arxiv.org/ftp/arxiv/papers/1804/1804.02509.pdf
+  - Authors: Abbas Ehsanfar & Mo Mansouri
+  -Index Terms: disseminating truth, volunteer's dilemma, fake news, social network policy, incentivizing mechanism, cooperative governance
+  -Abstract: Abstract—The concept  of “truth,” as  a  public  good is the production  of  a  collective  understanding,  which  emerges  from  a complex  network  of  social  interactions.  The  recent impact of social  networks  on  shaping  the  perception  of  truth  in political arena shows how such perception is corroborated and established by    the    online    users,    collectively.    However, investigative journalism for discovering truth is a costly option, given the vast spectrum  of  online  information.  In some cases, both journalist and  online  users choose  not  to investigate  the authenticity  of  the news they  receive, because  they  assume other  actors  of  the network had carried  the  cost of  validation.  Therefore,  the  new phenomenon  of  “fake  news”  has  emerged  within the  context  of social networks.  The  online  social  networks,  similarly  to  System of     Systems,     cause     emergent properties,     which     makes authentication  processes  difficult,  given  availability  of multiple sources. In this study, we show how this conflict can be modeled as   a   volunteer’s   dilemma. We   also   show how   the   public contribution through news  subscription  (shared  rewards)    can impact the dominance of truth over fake news in the network.
