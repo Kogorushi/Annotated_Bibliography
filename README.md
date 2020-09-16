@@ -16,6 +16,14 @@
 
 3. http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf
 
+# Mobile Crowd Sensing
+
+1. [Theseus: Incentivizing Truth Discovery in Mobile Crowd Sensing](https://github.com/Kogorushi/Annotated_Bibliography/edit/master/sources/Theseus.pdf)
+  - Original: https://dl.acm.org/doi/pdf/10.1145/3084041.3084063
+  - Author: Haiming Jin, Lu Su, & Klara Nahrstedt
+  - Index Terms: Mobile Crowd Sensing, Incentive Mechanism, Truth Discovery
+  - Abstract:
+
 # Modeling the dissemination of Fake News
 
 1.  [Incentivizing the Dissemination of Truth Versus Fake News in Social Networks](https://github.com/Kogorushi/Annotated_Bibliography/edit/master/sources/1804.02509.pdf)
