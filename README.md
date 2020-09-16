@@ -22,7 +22,7 @@
   - Original: https://dl.acm.org/doi/pdf/10.1145/3084041.3084063
   - Author: Haiming Jin, Lu Su, & Klara Nahrstedt
   - Index Terms: Mobile Crowd Sensing, Incentive Mechanism, Truth Discovery
-  - Abstract:
+  - Abstract: The recent proliferation of human-carried mobile devices has givenrise to mobile crowd sensing (MCS) systems that outsource sensory data collection to the public crowd. In order to identify truthful values from (crowd) workers’ noisy or even conflicting sensory data, truth discovery algorithms, which jointly estimate workers’ data quality and the underlying truths through quality-aware data aggregation, have drawn significant attention. However, the power of these algorithms could not be fully unleashed in MCS systems, unless workers’ strategic reduction of their sensing effort is properly tackled. To address this issue, in this paper, we propose a payment mechanism, named Theseus, that deals with workers’ such strategic behavior, and incentivizes high-effort sensing from workers. We ensure that, at the Bayesian Nash Equilibrium of the non-cooperative game induced by Theseus, all participating workers will spend their maximum possible effort on sensing, which improves their data quality. As a result, the aggregated results calculated subsequently by truth discovery algorithms based on workers’ data will be highly accurate. Additionally, Theseus bears other desirable properties, including individual rationality and budget feasibility. We validate the desirable properties of Theseus through theoretical analysis, as well as extensive simulations.
 
 # Modeling the dissemination of Fake News
 
